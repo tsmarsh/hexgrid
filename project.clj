@@ -1,4 +1,4 @@
-(defproject hexgrid-clj "0.1.0-SNAPSHOT"
+(defproject tsmarsh/hexgrid-clj "0.1.0-SNAPSHOT"
   :description "Hexgrid utility functions for clojure"
   :url "http://tailoredshapes.com"
   :license {:name "BSD 2-Clause"}
